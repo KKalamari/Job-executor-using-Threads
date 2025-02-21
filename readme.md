@@ -25,15 +25,15 @@ The system supports the following commands:
 
 Installation & Usage
 
-    Build the project:
+Build the project:
 
-make
+    make
 
 Run the server:
 
-./bin/jobExecutorServer
+    ./bin/jobExecutorServer
 
 Run a client command:
 
-./bin/jobCommander issueJob "ls -l"
+    ./bin/jobCommander issueJob "ls -l"
 
